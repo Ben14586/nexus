@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Kinetic",
+  "description": "Game catalog, membership, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["FULL_STACK_WEB_APP"]
+}

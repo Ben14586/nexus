@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "G-RPG-001",
+    "name": "32 Heroes",
+    "officialTitle": "32 Heroes: 8 Party Idle RPG",
+    "packageId": "com.lunosoft.ttheroes.android",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร (Gems/Gold)",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร (Gems/Gold)"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/rQ75dv4aWL2AT3Py2Z4Ic7EJtyM6UCZlq8q2ahNMCD6aJ502wF2BD4Se1LJ719tq_i_hqSn9G7tO0IgNxXO8bbM",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-002",
+    "name": "Age of Heroes",
+    "officialTitle": "Age of Heroes: Strategy Battle",
+    "packageId": "com.serbull.epochwars",
+    "category": "RPG",
+    "description": "บั๊กกดแพ็คฟรี + ทำทรัพยากร (Coin/Gem) + ปลดล็อกฮีโร่/VIP",
+    "tags": [
+      "บั๊กกดแพ็คฟรี",
+      "ทำทรัพยากร (Coin/Gem)",
+      "ปลดล็อกฮีโร่/VIP"
+    ],
+    "price": 135,
+    "vipPrice": 108,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/AxCF5_ggoB66iCGQW9ZZqYOkSvziV1K09MMhTMLcVyn-9hlwGNBDmcYarglUAyVvCY_G4y61_LjqqMjWq3h85lw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-003",
+    "name": "Arcana Blade",
+    "officialTitle": "Arcana Blade : Idle RPG",
+    "packageId": "com.superpixel.arcanablade",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรทุกอย่างในเกม",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรทุกอย่างในเกม"
+    ],
+    "price": 75,
+    "vipPrice": 60,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Z78CvPIdxoeu6s650wJU7seCwfi8nI-bRSfEIT1YL2Nqghk7mP3L4-Ekifq7BciKOdNXbSQL5SBPABmgvEpTTjQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-004",
+    "name": "Ash N Veil",
+    "officialTitle": "Ash N Veil : Fast Idle Action",
+    "packageId": "studio.gameberry.anv",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเงินและไอเทม",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเงินและไอเทม"
+    ],
+    "price": 100,
+    "vipPrice": 80,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/eEX_LZHzxeauavDbmo84KYBIgKK7uReO0X1ZSjHvzXvJuif6FNj6jiyXJwwz6zcPaIgiQLX32DImOmcvmAbCuA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-005",
+    "name": "Avalar Game",
+    "officialTitle": "Avalar: Raid of Shadow",
+    "packageId": "com.vtwo.aone.epl.gp",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำเพชรทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำเพชรทรัพยากร"
+    ],
+    "price": 145,
+    "vipPrice": 116,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/_7_bzHPhh98KfK1j-LHRkYl9Wt2hCCM3fC0jSUO-jBJUJLihnDWABo2viqX-dekBbJ2Hzrl3ybz49AULuCL2qg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-006",
+    "name": "Backpack Survivors",
+    "officialTitle": "Backpack Survivors : Idle RPG",
+    "packageId": "com.cookapps.idlebackpacker",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 80,
+    "vipPrice": 64,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/RAGA1nk7hiWMhpkDE620XwDPcn6x7XUBQYdnPPTr3EL3qiI_GJMIrza88mF7Jx45AIs3iaDTosfCLO2MuR8SFg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-007",
+    "name": "Bad 2 Bad : Apocalypse",
+    "officialTitle": "Bad 2 Bad: Apocalypse",
+    "packageId": "com.dawinstone.b2ba",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 115,
+    "vipPrice": 92,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/_p9ttm7fIM06sScXPZMmVYm1ioweTZo7KDBbE3q8EX0-Y86P-XCOWbXy0QCCkuX7TDCRpDg5f-9ufptYM5rnAQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-008",
+    "name": "Beam of Magic",
+    "officialTitle": "Beam of Magic – Roguelike RPG",
+    "packageId": "manastorm.spacehorse",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี (บั๊กกล่องสุ่มได้คริสตัล) + ทำเงิน/คริสตัล",
+    "tags": [
+      "กดแพ็คฟรี (บั๊กกล่องสุ่มได้คริสตัล)",
+      "ทำเงิน/คริสตัล"
+    ],
+    "price": 150,
+    "vipPrice": 120,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/PCPZWv3qopha7BXftfdvUbRdvptQVJ1fKp-Z9JP8xjsjPQd_4m6yF4G_klA0M-MvR4poT8kzZuJNpsGTJD_nJUA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-009",
+    "name": "Bunny Legends",
+    "officialTitle": "Bunny Legend",
+    "packageId": "com.view.bunnylegend",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำเพชรและไอเทมทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำเพชรและไอเทมทรัพยากร"
+    ],
+    "price": 89,
+    "vipPrice": 71,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/yCXTGQyoAjwzbvwNeyPXalN2eJcpSo1gv5_AQt2oRqesMBjSzd9FyYKbfQB0_jvYWiI7EIrKHJSgE2P9tU34",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-010",
+    "name": "Cat Legends",
+    "officialTitle": "Cat Legends: Idle RPG Games",
+    "packageId": "com.DreamsStudio.CatLegendsIdleRPG",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 129,
+    "vipPrice": 103,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Gb6kUWJb9aVCRUlJcrfv4kqV768IvUV8gwNGPVfVFf-yapYVZF2JzJDHj9A8gzXN4kItB7tpJ1_w6bdvups1",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-011",
+    "name": "Combat Quest",
+    "officialTitle": "Combat Quest - Archer Hero RPG",
+    "packageId": "com.chillgaming.combatquest",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 69,
+    "vipPrice": 55,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/s1-pmppx0o13Kiwr0veuOEDtDvZeYraLYltnQHsUStEyi5mIjTzQuUADXnyf_TEP-Lz6rlmcR1KOhqw9qdN0",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-012",
+    "name": "Dark Clan",
+    "officialTitle": "Dark Clan: Squad Idle RPG",
+    "packageId": "studio.gameberry.idledarkknight",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 99,
+    "vipPrice": 79,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/E40u-LIbzjq16XeZE237-g6F5-e3mk8yDd1baAm2t6Esile1sQcir7w52dTgpvQKvT3SXAmMF_FYCxMQsG0T_gc",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-013",
+    "name": "Dead Impact",
+    "officialTitle": "Dead Impact: Survival Online",
+    "packageId": "games.synthez.zombie.survival.multiplayer",
+    "category": "RPG",
+    "description": "ปลดล็อก Premium/สกิน + ทำไอเทมทั้งหมดเข้าตัว",
+    "tags": [
+      "ปลดล็อก Premium/สกิน",
+      "ทำไอเทมทั้งหมดเข้าตัว"
+    ],
+    "price": 139,
+    "vipPrice": 111,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/dWxjkLDP1h9dCkIW_qnEw3KWIREoicrk-s0gDln1iZW0jOMIcp_sU2eW7ifK_cMZ2HLwU6uDT7oTGknhHG91-xI",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-014",
+    "name": "Dragonsky",
+    "officialTitle": "DragonSky : Idle & Merge",
+    "packageId": "com.manacore.mod",
+    "category": "RPG",
+    "description": "ทำทรัพยากรเงินและเพชร",
+    "tags": [
+      "ทำทรัพยากรเงินและเพชร"
+    ],
+    "price": 79,
+    "vipPrice": 63,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/b18lcRJwo6QdZOb_-O2PvyeTpI9mHiMmRe8qdBne9EfNQARXNR0Yq7bf-95y3AtA4z81M1Gx2z1IJSppOzMT_Q",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-015",
+    "name": "Dungeon of Gods",
+    "officialTitle": "Dungeon of Gods",
+    "packageId": "com.superplanet.goddungeon",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 110,
+    "vipPrice": 88,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/z6xiZPYcmAdhg9cFpagRqojRzrbtn6LE3RLx6d4e9oe7ziMxeZwyGvTFYw02MTfqPRLkTYzxtC21tBBsq8vTyb0",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-016",
+    "name": "Dungeon Slasher",
+    "officialTitle": "Dungeon Slasher : Roguelike",
+    "packageId": "com.nspgames.dungeonslasher",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี (ใช้ร่วมกับ Lucky Patcher) + ทำสกินและเพชร",
+    "tags": [
+      "กดแพ็คฟรี (ใช้ร่วมกับ Lucky Patcher)",
+      "ทำสกินและเพชร"
+    ],
+    "price": 149,
+    "vipPrice": 119,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/MgECKxFCoSSoyYr0GF3Bc-gctvrCD7GQcuHRZrhYvzQV9qbUzRuVUeUiLu-P8GuuIVM-i0tYUnGTnWhZLTETRA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-017",
+    "name": "E.D.E.N : The Last Line",
+    "officialTitle": "E.D.E.N : The Last Line",
+    "packageId": "net.gameduo.dfd",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ปลดล็อก Premium Pass/สกิน + ทำทรัพยากรเงิน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ปลดล็อก Premium Pass/สกิน",
+      "ทำทรัพยากรเงิน"
+    ],
+    "price": 85,
+    "vipPrice": 68,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/asEzZuiq4Ofu7-khtJn7wNJCTEOn3SXfTKg96lkKTcoZuLyBw3pQXawC1Q2aFLkeoYUO0-Kva5XyiqXRaIGo5w",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-018",
+    "name": "Elemental",
+    "officialTitle": "Elemental Gloves - Magic Power",
+    "packageId": "com.elemental.gloves",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรและไอเทมมอนสเตอร์",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรและไอเทมมอนสเตอร์"
+    ],
+    "price": 120,
+    "vipPrice": 96,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Y1-VWe8RYOelHz3p1f8RTvQlM7jObDrZTyHP1_8GIh-GG4GHvFSpjuRiEOKKfebXksVkqqkvYHDLzQeiGkXePrM",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-019",
+    "name": "Eternal Hero",
+    "officialTitle": "Eternal Hero: Action RPG",
+    "packageId": "games.rivvy.eternalherorpg",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี (รับแพ็กเกจและสกิน)",
+    "tags": [
+      "กดแพ็คฟรี (รับแพ็กเกจและสกิน)"
+    ],
+    "price": 60,
+    "vipPrice": 50,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/iHlDnj1VTFXvs6EJXRcujBdmfMYGfM46wy8f4Jn0i1EvqR8r-u-DE0UYip_96x1anKlvDTLoDb9Xm_R4H--ZRg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-020",
+    "name": "Evil Sword",
+    "officialTitle": "Evil Sword",
+    "packageId": "com.act7ent.evilsword",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร (Gold/Diamond) + ปลดล็อกสกิลสูงสุด",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร (Gold/Diamond)",
+      "ปลดล็อกสกิลสูงสุด"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ZrWofP2gaUU48PxhYLKTxrL6jDh3keJqVR6W5iZiHsB0dPHEpyVeeiGmLfXXfO3Hd0M6nR042dlgjj0Jf2wQYw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-021",
+    "name": "Fairy Tail Wizard Chronicle",
+    "officialTitle": "FAIRY TAIL Wizard Chronicle",
+    "packageId": "jp.co.goodroid.fairy",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรจดหมาย (ตัวละคร UR/ไอเทม/เพชร) + ทำเงิน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรจดหมาย (ตัวละคร UR/ไอเทม/เพชร)",
+      "ทำเงิน"
+    ],
+    "price": 135,
+    "vipPrice": 108,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Yk-uk1UVPkOjVrX9h25EB6-bAplByqn9_HLLlTRKbq-VjCZo6k8gl6ze8y3K_dOZaPzIg8IxFxzrochi5qcGRQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-022",
+    "name": "Fortias Saga",
+    "officialTitle": "Fortias Saga: Idle RPG",
+    "packageId": "com.ondi.fortias.saga",
+    "category": "RPG",
+    "description": "ทำทรัพยากร/อุปกรณ์สูงสุด + ปลดล็อกฮีโร่ทั้งหมด",
+    "tags": [
+      "ทำทรัพยากร/อุปกรณ์สูงสุด",
+      "ปลดล็อกฮีโร่ทั้งหมด"
+    ],
+    "price": 75,
+    "vipPrice": 60,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Bgv_6KxGJn3E-FYUHSXTuzxC8ffnuQ-u61i-mwzhe-aXwdcZu8ct9Bl-UK4UgylGSNtj-VGc1Hde2QMkkLO17A",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-023",
+    "name": "Gear Fight",
+    "officialTitle": "Gear Fight!",
+    "packageId": "com.EternalStudio.GearFight",
+    "category": "RPG",
+    "description": "ทำเพชร/เหรียญ/ตั๋ว + ปลดล็อกระบบและหีบ",
+    "tags": [
+      "ทำเพชร/เหรียญ/ตั๋ว",
+      "ปลดล็อกระบบและหีบ"
+    ],
+    "price": 100,
+    "vipPrice": 80,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/pP2c9IW6ERewtcMvT__O-2_U2TSFyxPYurUnP0ZQ9dgWL7d9pwPmRBapPs-jKlUXsuV-UE0WG0lEo-fAKv7h_g",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-024",
+    "name": "Hero Raid",
+    "officialTitle": "Hero Raid",
+    "packageId": "com.hpg.heroraid",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 145,
+    "vipPrice": 116,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/9gNqYS5LXR6QhU5vWqvKwqsRvlH8qRr7JiCIvNDAbpnTOFUiH4aia_MzGA_8s2pAyuds1c0ipHqY6OlkzdOT",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-025",
+    "name": "Heroes Awaken",
+    "officialTitle": "Heroes Awaken: Idle RPG",
+    "packageId": "co.imba.ha",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี (ใช้ร่วมกับ Lucky Patcher)",
+    "tags": [
+      "กดแพ็คฟรี (ใช้ร่วมกับ Lucky Patcher)"
+    ],
+    "price": 80,
+    "vipPrice": 64,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/hGLcNmM04QasSErwXRKnnP-6LCiH65xwVJjalgLwGJ_cQHs3QnzsC50ZumTP_mmViQV1hSlBqzPUw7pZWPNB",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-026",
+    "name": "Heroes vs Hordes",
+    "officialTitle": "Heroes vs Hordes: Survival RPG",
+    "packageId": "com.swiftgames.survival",
+    "category": "RPG",
+    "description": "ปลดล็อกตัวละครทั้งหมด + เพิ่ม Experience และรางวัลมหาศาล",
+    "tags": [
+      "ปลดล็อกตัวละครทั้งหมด",
+      "เพิ่ม Experience และรางวัลมหาศาล"
+    ],
+    "price": 115,
+    "vipPrice": 92,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/GUkesPCFD6G908K4PRhDTWYhDNzmJLiiw861uRhZgj4AWYaFDl0kNa0EksIVZX_850SIqBX-HyYuoqDxV7RJ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-027",
+    "name": "Hunter Raid",
+    "officialTitle": "Hunter Raid: Idle RPG Games",
+    "packageId": "studio.gameberry.idlehunter",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 150,
+    "vipPrice": 120,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/NG7PtPbUnYHk9AvNHsSwGrpVqGKZipe3a8GknLLMWTjiMvvbdCFjryFywcWRIGaHh0tOm_gjGEy8tup__1z1PQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-028",
+    "name": "Hunters Origin",
+    "officialTitle": "Hunters Origin",
+    "packageId": "com.hunters.legacy",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 89,
+    "vipPrice": 71,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/1hv9e0dM2CEucqC7emqx1iNdt4gyIGuKq-vYhV-OpsGGi8aQZTJC_OPd4dxVdHBEDouMu8Ag5OCdxRwFn2VFXys",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-029",
+    "name": "Idle Berserker",
+    "officialTitle": "Idle Berserker: legend of rpg",
+    "packageId": "com.cookapps.berserkidle",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 129,
+    "vipPrice": 103,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/NrwGIDp_EyJ1SOdQD9I7IN5n2QIt6TbKRQMRzvAYUBVF9wjH3Lu4IrO27uuL0a3_e5PIrGh7RZJyCXt62pxf6Q",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-030",
+    "name": "Idle Dungeon Riders",
+    "officialTitle": "Idle Dungeon Raiders - AFK RPG",
+    "packageId": "com.PyreGames.IdleDungeon",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 69,
+    "vipPrice": 55,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Ar1KJ714Dt8jo_zN_JKYI8of57bFzgwEJFGUT-9GC1WmKQ_Ih3JqNAFmVulEUUlZeRH8CTpKHzwPCvfg8MIDzA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-031",
+    "name": "Idle Slayer Pixel",
+    "officialTitle": "Idle Slayer - Pixel RPG",
+    "packageId": "com.pabloleban.IdleSlayer",
+    "category": "RPG",
+    "description": "ทำทรัพยากร (เหรียญ)",
+    "tags": [
+      "ทำทรัพยากร (เหรียญ)"
+    ],
+    "price": 99,
+    "vipPrice": 79,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/pei8xvzIW2MiSdJKVOC3IZX_i0DWDbaJQ-TjM_MCeCNkt9e53JBXbo_PD8nM8gZncvS_J81DoR8bWmIwFDYygkc",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-032",
+    "name": "Knight Maidens",
+    "officialTitle": "Knight Maidens: Idle RPG",
+    "packageId": "com.yesgames.knightmaidens",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี (สุ่มกาชาฟรี) + ทำเพชรทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี (สุ่มกาชาฟรี)",
+      "ทำเพชรทรัพยากร"
+    ],
+    "price": 139,
+    "vipPrice": 111,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/6IyLknEO7bK-36l9qlGQr6KgF7GnaHIA84za_Jum-7xb7xEyUgKhViIOWzfcBeX6U70HcyZvwqheq94NVrLiaQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-033",
+    "name": "Legend of Slime",
+    "officialTitle": "Legend of Slime: Idle RPG War",
+    "packageId": "com.loadcomplete.slimeidle",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ปลดล็อกสไลม์",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ปลดล็อกสไลม์"
+    ],
+    "price": 79,
+    "vipPrice": 63,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/G8GkgOYjolQovAOo0GdnWr-A8MCKjFG-cEvo6cpSv4QkrOz7qO75bQOLbGwZuIM5SnPEDoq8wpxgHwr5awgU",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-034",
+    "name": "Loot Heroes",
+    "officialTitle": "Loot Heroes: Fantasy RPG Games",
+    "packageId": "com.tapanywhere.lootheroes",
+    "category": "RPG",
+    "description": "ทำทรัพยากร (Currency) + ปลดล็อกฮีโร่ + ทำไอเทมระดับ Infinite",
+    "tags": [
+      "ทำทรัพยากร (Currency)",
+      "ปลดล็อกฮีโร่",
+      "ทำไอเทมระดับ Infinite"
+    ],
+    "price": 110,
+    "vipPrice": 88,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/p4KrOnVkC9Z8rG6v3mMfQlO7UY5etbdXgTGVUx6WwNO_wANeumycyKT0EI7BW0gfghTfiaitj_Kh4CItCd5vbX0",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-035",
+    "name": "Lucky Heroes",
+    "officialTitle": "Lucky Heroes! : Defense Game",
+    "packageId": "com.tree.hybrid.luckydefense",
+    "category": "RPG",
+    "description": "ทำเงินและทรัพยากรแร่ + ปลดล็อกและ Max เลเวลฮีโร่",
+    "tags": [
+      "ทำเงินและทรัพยากรแร่",
+      "ปลดล็อกและ Max เลเวลฮีโร่"
+    ],
+    "price": 149,
+    "vipPrice": 119,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/k1nsZ2BbKxzQqcDd1d8ZkkHjPhQAtvmtrfk7bzgWcg24lk1wsj18XQXk1OajIj22ibHXAwSO2WblCT8AcxPpJA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-036",
+    "name": "Magic Survivor",
+    "officialTitle": "Magic Survivor: Roguelike Game",
+    "packageId": "magic.survivor.roguelike.games",
+    "category": "RPG",
+    "description": "ทำเพชร + ปลดล็อกฮีโร่และอุปกรณ์",
+    "tags": [
+      "ทำเพชร",
+      "ปลดล็อกฮีโร่และอุปกรณ์"
+    ],
+    "price": 85,
+    "vipPrice": 68,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/4M2UuHzM0lkXDwUATRY8s7ifWj00lK2CbLH70Nq3IiS9V_jxCgI1oobOdgIwONJBf4tRm8MRQFfg5d7lAHD-tgg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-037",
+    "name": "Monster Slayer",
+    "officialTitle": "Monster Slayer: Idle RPG Game",
+    "packageId": "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 120,
+    "vipPrice": 96,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/VmguX4SA5Rn8OZ7HM2ddAao6R4b9Tygmuc-5wWTVv8erWo15TeByb3l2KRsShZP83cZBhk3tuoDnyXbIn4T9Lw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-038",
+    "name": "Ninja Gangsters",
+    "officialTitle": "Ninja Gangsters: Idle Streets",
+    "packageId": "com.Deliciousgames.NGI",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำของรางวัลจากเควส (ตั๋วสุ่ม/เพชร)",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำของรางวัลจากเควส (ตั๋วสุ่ม/เพชร)"
+    ],
+    "price": 60,
+    "vipPrice": 50,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/E3a1WWvY5mdlCf3cv07MvHSotCeTJD9Bh1-1b2m8TxTCvrZ3nW3OmPXLTOxGTnBhDsepENedVLSXX1EcPSFdgA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-039",
+    "name": "Otherworld Legends",
+    "officialTitle": "Otherworld Legends",
+    "packageId": "com.chillyroom.zhmr.gp",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ydFJDRey_ECtE5lFh0xoTa3uv7O21tvUK55etHvci1-n4pwcgD-NdkJH86SJSYgozyWeoaoeHhTeFWcjB2yxKw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-040",
+    "name": "Overgeared Hero",
+    "officialTitle": "Overgeared Hero: Merge RPG",
+    "packageId": "com.fiveminlab.overgeared.hero.backpack.merge",
+    "category": "RPG",
+    "description": "ทำอุปกรณ์/สัตว์เลี้ยง/เพชร + ปลดล็อกทุกอย่างในเกม",
+    "tags": [
+      "ทำอุปกรณ์/สัตว์เลี้ยง/เพชร",
+      "ปลดล็อกทุกอย่างในเกม"
+    ],
+    "price": 135,
+    "vipPrice": 108,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/BtgYfxhrBRe8IpCbT2q_YBlSVxgQpkbmlUjOHK8QcPUwbqueAXlgXe_8PDbZWnRL1Ug_lOUCKXnjccaGDvYYzg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-041",
+    "name": "Pixel Blade M VIP",
+    "officialTitle": "Pixel Blade M VIP",
+    "packageId": "com.pixelstar.PixelFBladeVIP",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเหรียญ/เพชร/วัสดุอัปเกรด + ทำหีบดาวสูง",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเหรียญ/เพชร/วัสดุอัปเกรด",
+      "ทำหีบดาวสูง"
+    ],
+    "price": 75,
+    "vipPrice": 60,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/SvusWGW7NkUwClPVU2xBzpm7QVyxBTnyltZ7aPVBCh389VplJvBozQ_XImJZNXnb6-5dEp784zOOvAgH3KiUmA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-042",
+    "name": "Rumble Heroes",
+    "officialTitle": "Rumble Heroes - Adventure RPG",
+    "packageId": "com.playhardlab.heroes",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 100,
+    "vipPrice": 80,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/YUuRWbCj8BRdxcmcgKEG2_BASVrTfgIyZjeqFKx7vQG13PfKGOX4h3hbgNhES8KBqBz1lWmQGOt9WzwE6vFZ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-043",
+    "name": "Rumble Squad",
+    "officialTitle": "Rumble Squad: Idle Pixel RPG",
+    "packageId": "com.cookapps.hustle",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 145,
+    "vipPrice": 116,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/SEnTJwIT1DeDt4f-Rko3AIPbiFd5GbqtOs702BfymDpi9iILe0xeeWaptbt3fyOnhnzl7_sYdOQJqvdFxtDU8w",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-044",
+    "name": "Shadow Hunter",
+    "officialTitle": "Shadow Hunter: Offline Premium",
+    "packageId": "com.eapublishing.dhsw.paid",
+    "category": "RPG",
+    "description": "ทำทรัพยากร (ทอง/เพชร/สกิน)",
+    "tags": [
+      "ทำทรัพยากร (ทอง/เพชร/สกิน)"
+    ],
+    "price": 80,
+    "vipPrice": 64,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/-32RAQJYWTdHdGFv3G8517GVPD7rqF6Nf-E4CEAe8gZoZVMf8Dg4P6HqddY1PNiVRiJS-7cb3xX-Q2ILKD_tb7I",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-045",
+    "name": "Shadow Slayer",
+    "officialTitle": "Shadow Slayer: Demon Hunter",
+    "packageId": "com.ondi.shadowslayer",
+    "category": "RPG",
+    "description": "ทำทรัพยากร (ทอง/เพชร)",
+    "tags": [
+      "ทำทรัพยากร (ทอง/เพชร)"
+    ],
+    "price": 115,
+    "vipPrice": 92,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/W4GQZhuGrbZ1MttOOikgoAuerA5O2ORSytgOA-8PeEKftTfCpNIl2G665u9AqfpTVG8kh6RUZ98Wd8H7eOP_",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-046",
+    "name": "Switching Heroes",
+    "officialTitle": "Switching Heroes",
+    "packageId": "com.zilliongames.collectionidle",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 150,
+    "vipPrice": 120,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/LxPtKW9bjnxKJKF24St3lkJPgPP76RR28d1J54YtVBLlxKlgAvwk2nS984okHvwa3UOqjy4zFZIsyG7tP8t_eXk",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-047",
+    "name": "Tailed Demon Slayer",
+    "officialTitle": "TailedDemonSlayer - Idle RPG",
+    "packageId": "com.cookapps.taileddemonslayer",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำไอเทมและทรัพยากร XP",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำไอเทมและทรัพยากร XP"
+    ],
+    "price": 89,
+    "vipPrice": 71,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ag9_7SkgeVIpwDZwTNdEhVShGgOu5wNcgb803qUmtkMxavxDvDCNhN2ZFEDoofu4ugwP10b2aRg7o0JGk1Wo",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-048",
+    "name": "Tap Dragon",
+    "officialTitle": "Tap Dragon",
+    "packageId": "com.muzzug.TapDragon",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 129,
+    "vipPrice": 103,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ElsBWAag6TQq10vfqq-Zrpnlm5M6BgVn1Z9gDzPzzmltyZFH_cyFpt8-passWYVTjFJ_-SDLVXtIfhFe-m9ODw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-049",
+    "name": "Tiny Reaper",
+    "officialTitle": "Tiny Reaper: Reborn",
+    "packageId": "com.daerigame.babysasin",
+    "category": "RPG",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร"
+    ],
+    "price": 69,
+    "vipPrice": 55,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/lu9qsRpigdedJm6SjlOUNV2sNQ6N8CAUOUmPDOubEB14kSBnunraY7hxhkBti_-IAAG8CpS499GxmATc6LJHDA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-050",
+    "name": "Transcendent",
+    "officialTitle": "Transcendent Work Management",
+    "packageId": "ai.transcendent.transcendentapp.maui",
+    "category": "RPG",
+    "description": "ทำทรัพยากร (CashCoin/Mileage/Gold)",
+    "tags": [
+      "ทำทรัพยากร (CashCoin/Mileage/Gold)"
+    ],
+    "price": 99,
+    "vipPrice": 79,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/66xa3anrJZnuomLiyvwyQYWvfzZ8uJVI2g7P_VMWaX_8c3M8QQXsIHM58ebB3DKXXWrtSF7RokxFro5w4aq1bg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-RPG-051",
+    "name": "Ultraman : Legend of Heroes",
+    "officialTitle": "Ultraman: Legend of Heroes",
+    "packageId": "com.legendofheroes.ultramangames",
+    "category": "RPG",
+    "description": "ทำของรางวัล (เพชร/ทอง/ตัวละครและมอนสเตอร์ระดับสูง)",
+    "tags": [
+      "ทำของรางวัล (เพชร/ทอง/ตัวละครและมอนสเตอร์ระดับสูง)"
+    ],
+    "price": 139,
+    "vipPrice": 111,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/-vmp0X5QetRCtlB3ploONKUJ3J_BR2AhRBttfO3hymCiBFoSAylmKYj8Vhz-IWYaC79XYBtkD_MceUMWNWFb",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-052",
+    "name": "Arcane Arena",
+    "officialTitle": "Arcane Arena: Tower Defense TD",
+    "packageId": "com.panteon.arcanearena",
+    "category": "TD",
+    "description": "กดแพ็คฟรี (หีบและเพชรฟรีรายวัน)",
+    "tags": [
+      "กดแพ็คฟรี (หีบและเพชรฟรีรายวัน)"
+    ],
+    "price": 79,
+    "vipPrice": 63,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/MDhjuPeguw-_GAZCRYObZ5eMx8JSjEIJ_iX0tyUwXcGOQaWgF8nMbtfQttSv_1L3Uvd3iWjTcqliUBpj7S3WQzY",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-053",
+    "name": "Bounce Defense",
+    "officialTitle": "Bounce Defense",
+    "packageId": "com.minigamelab.bouncedefense",
+    "category": "TD",
+    "description": "กดแพ็คฟรี + ทำทอง/เพชรทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทอง/เพชรทรัพยากร"
+    ],
+    "price": 110,
+    "vipPrice": 88,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/eDPbdRiJuuhpXoOwv31P2wsRkFgMbZa98VHRyNdJePAGLv1M5pomR4yd9WnfSiDaEUgA9dDR_9rV7PbTIXKBhQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-054",
+    "name": "Bullet Heroes",
+    "officialTitle": "Bullet Heroes: TD RPG Shooter",
+    "packageId": "com.goosebump.bulletheroes",
+    "category": "TD",
+    "description": "กดแพ็คฟรี + ทำพลังงาน/เพชร/เหรียญ + ปลดล็อกฮีโร่ทั้งหมด",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำพลังงาน/เพชร/เหรียญ",
+      "ปลดล็อกฮีโร่ทั้งหมด"
+    ],
+    "price": 149,
+    "vipPrice": 119,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/eKf4KzQ6rlaBYGjpNdCgy0yWPFX58tcYcE8KVyPPEncCow6i0ttrSji2Yx2pP3uS2m5WtawPhpCGSGApk3SRVPI",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-055",
+    "name": "Castle Defenders Clash",
+    "officialTitle": "Castle Defenders Clash",
+    "packageId": "com.mobirix.projectdf1",
+    "category": "TD",
+    "description": "ทำทรัพยากรเงิน (Diamond/Ruby/Gold)",
+    "tags": [
+      "ทำทรัพยากรเงิน (Diamond/Ruby/Gold)"
+    ],
+    "price": 85,
+    "vipPrice": 68,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/vAT-SGpdZ3GsW2kYFRH1lvFJddkqQaokh_5f4c2mWOza2lsA2vo4RzncC0vShxm7Osu0XtyoaZuHF3LdrIQuuw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-056",
+    "name": "Dead Ahead: Zombie Warfare",
+    "officialTitle": "Dead Ahead: Zombie Warfare",
+    "packageId": "com.mobirate.DeadAheadTactics",
+    "category": "TD",
+    "description": "ทำทรัพยากรเงิน",
+    "tags": [
+      "ทำทรัพยากรเงิน"
+    ],
+    "price": 120,
+    "vipPrice": 96,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/HPbK8I1isHBDPl4cXTdxScg3kS0nmGLT-gSb4LDZUZpdWgPwGHtiuD-7XMolKz8id29At0yxEI_UZ-crBfrHbwQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-057",
+    "name": "Idle Hero TD",
+    "officialTitle": "Idle Hero TD Tower Defense RPG",
+    "packageId": "com.SwellGamesLLC.IdleHeroTD",
+    "category": "TD",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 60,
+    "vipPrice": 50,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/2-baeVMX_3k1_lGBjzN5CkWlv48Q9fYows-jH_ux8JyTDGZA1lh9ItY5yv7s5oi_-qi7PmGgAB3lfOCJmvxFs6Y",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-058",
+    "name": "Kingdom Rush Battles",
+    "officialTitle": "Kingdom Rush Battles: TD Game",
+    "packageId": "com.ironhidegames.kingdomrush.mp",
+    "category": "TD",
+    "description": "กดแพ็คฟรี (ทอง/สกอร์ล)",
+    "tags": [
+      "กดแพ็คฟรี (ทอง/สกอร์ล)"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/QViwy6OcsI2kj2s5R2lT50Sclb_eTrgFInTt7SwcL3PwC3WG0lSkoKT5-i_20XquazLIOA3jPGyFf1TTlSG2ag",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-059",
+    "name": "North War : Island Defense 3D",
+    "officialTitle": "North War: Island Defense 3D",
+    "packageId": "com.bgg.island.battle",
+    "category": "TD",
+    "description": "กดแพ็คฟรี + ทำอุปกรณ์/เหรียญ + ปลดล็อกทั้งหมด",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำอุปกรณ์/เหรียญ",
+      "ปลดล็อกทั้งหมด"
+    ],
+    "price": 135,
+    "vipPrice": 108,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/oVc0_8z1ZEsSoiZh1QxJ6IMmhM2LAH3B6FKVDNLNC6lTlCLGv9b407YK-09ValHOvjWb5DUtpEYo9tBxdB9hTA8",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-060",
+    "name": "Raid Rush",
+    "officialTitle": "Raid Rush: Tower Defense TD",
+    "packageId": "com.wireless.defenseland",
+    "category": "TD",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 75,
+    "vipPrice": 60,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/K8PNn7j345TT62C0ID_Z5MK_hceT99WJd7ckBgrs-70Rb6OdREPLgOhgi-3XtIaY6HpqLvnRvN1rU64v36ouJc8",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-061",
+    "name": "Slime Castle",
+    "officialTitle": "Slime Castle — Idle TD Game",
+    "packageId": "com.redtailworks.slimetd",
+    "category": "TD",
+    "description": "ทำทรัพยากร (เงิน/ทอง/เพชร) + ปลดล็อกสไลม์ + ทำวัสดุอัปเกรด",
+    "tags": [
+      "ทำทรัพยากร (เงิน/ทอง/เพชร)",
+      "ปลดล็อกสไลม์",
+      "ทำวัสดุอัปเกรด"
+    ],
+    "price": 100,
+    "vipPrice": 80,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ril_uvvF1o4WuEr4isx2bdGkDeZ8l0O2OCSxS5A-eXwuni76hzraQnJHCLjSUBjKM4wyzmtnjcY6XErPYOVy",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-062",
+    "name": "Spin Spin Defense",
+    "officialTitle": "Spin Spin Defense",
+    "packageId": "com.Manababa.RandomSpinDEF",
+    "category": "TD",
+    "description": "กดแพ็คฟรี (ช็อปฟรี) + ทำทอง/เพชร + ปลดล็อก Battlepass",
+    "tags": [
+      "กดแพ็คฟรี (ช็อปฟรี)",
+      "ทำทอง/เพชร",
+      "ปลดล็อก Battlepass"
+    ],
+    "price": 145,
+    "vipPrice": 116,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/AsMfshYQGpGayb-vmMIAQSvpsZiiviyQvuC1D8hidk375-M0m8YguowtFmtXnqYNouyHwo-fP4f-pRmIliNmjg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-063",
+    "name": "Star Defense : Alliance TD",
+    "officialTitle": "Galaxy Defense : Coop TD",
+    "packageId": "com.TeamSparta.StarTD",
+    "category": "TD",
+    "description": "กดแพ็คฟรี + ทำรางวัลสุ่มไอเทมและทรัพยากรเงิน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำรางวัลสุ่มไอเทมและทรัพยากรเงิน"
+    ],
+    "price": 80,
+    "vipPrice": 64,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/brmhlSMSVyuTyMImeetkIwLNu7YhBrl_8BqI8oPyWwVOeRW40MakeMN0rSgakT7tyuvAgPTz5VF_9o0mNIe_Kg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-064",
+    "name": "Stickman Defense",
+    "officialTitle": "Stickman Defense: Survival TD",
+    "packageId": "com.thp020.stickman.casual.war.game",
+    "category": "TD",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 115,
+    "vipPrice": 92,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/BK3OuqmdPEaCunSOPzN2edeq1LVWCJvmtK8ReGIhVFrbqX9bUELOrwHpdIIPgr0oHO7rffZlATack9847EB78A",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-065",
+    "name": "Survival Arena",
+    "officialTitle": "Survival Arena: Tower Defense",
+    "packageId": "tower.defense.survival.arena",
+    "category": "TD",
+    "description": "ทำทรัพยากรเงิน + ปลดล็อกตัวละคร/อิโมจิทั้งหมด",
+    "tags": [
+      "ทำทรัพยากรเงิน",
+      "ปลดล็อกตัวละคร/อิโมจิทั้งหมด"
+    ],
+    "price": 150,
+    "vipPrice": 120,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/3uuMl-UJ3yNJNO6MYn0bkLc2QlO8J1uNUG41GxjsYjwZTo7RPU5AgqViphk8FoQPaEbOhAsRUeNzdoqGzAKgJg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-066",
+    "name": "Tower Defense Legend 5",
+    "officialTitle": "Tower Defense Legend 5 Pro",
+    "packageId": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5.Pro",
+    "category": "TD",
+    "description": "ทำทรัพยากร (เพชร/พลังงาน/พื้นที่ฮีโร่)",
+    "tags": [
+      "ทำทรัพยากร (เพชร/พลังงาน/พื้นที่ฮีโร่)"
+    ],
+    "price": 89,
+    "vipPrice": 71,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/myC1hEorL9NcqfRNFoLL1oZrZwfaJUu2A73s6SXzDfchDfzvGE9LGLth79h4ABmLcpUIqpCPCkKRQUCPKXNl1g",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-067",
+    "name": "Tower Raid",
+    "officialTitle": "Tower Raid : Castle Defense",
+    "packageId": "com.happykamp.raid.rush.tower.defense.castle.game",
+    "category": "TD",
+    "description": "กดแพ็คฟรี + ทำทองทรัพยากรกลางด่าน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทองทรัพยากรกลางด่าน"
+    ],
+    "price": 129,
+    "vipPrice": 103,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/hQANKUOGu7tqbnHfv1ng4bOZ2_w6mb4deQLR09n0iRS-5CpzIngtg4U-apb4wDzM_ns_VXka0-I1_Ms3WHDj6A",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-068",
+    "name": "Underdark : Defense",
+    "officialTitle": "UnderDark: Defense",
+    "packageId": "com.FreeDust.UnderDark",
+    "category": "TD",
+    "description": "กดแพ็คฟรี + ปลดล็อกเลเวล 21/ฮีโร่ทั้งหมด + ทำเพชรและทอง",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ปลดล็อกเลเวล 21/ฮีโร่ทั้งหมด",
+      "ทำเพชรและทอง"
+    ],
+    "price": 69,
+    "vipPrice": 55,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/WFlpcgBbGDbHNoRlDcQk2FwBAlUareiaGSEmtI0Y0v10hw7aIhitym82rR4dTNU7vqVIsiQaitCd7lXUafwo9A",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-TD-069",
+    "name": "Wizard Tower",
+    "officialTitle": "Wizard Tower: Spell Defense",
+    "packageId": "com.ultimagames.magic.tower.defence.game",
+    "category": "TD",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 99,
+    "vipPrice": 79,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/eQRhqDMKQee5umeviBBVlzI5vhgNWyAu6RnOxupcAl5dCmISDfputHAR4EzEZUuKcVCXIllqRE3P7tqfv1-_5A",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-IO -070",
+    "name": "Magica.io",
+    "officialTitle": "Magica.io - Battle Royale",
+    "packageId": "io.battleroyale.magicka",
+    "category": "IO Games",
+    "description": "ทำทรัพยากรเงิน/เพชร",
+    "tags": [
+      "ทำทรัพยากรเงิน/เพชร"
+    ],
+    "price": 139,
+    "vipPrice": 111,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/PwcME1-wy4GBO5reOxwvD63_iJXMm3MbHXt-j12_MY_3KUSO7_4ZNsNhFcWVzT27PF-3uEjFyBpqiJKyvjn7uw",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-IO -071",
+    "name": "Solo Survivor IO",
+    "officialTitle": "Solo Survivor IO Game",
+    "packageId": "com.fc.monster.survivor.io",
+    "category": "IO Games",
+    "description": "ทำเงิน/เพชร/เลเวล",
+    "tags": [
+      "ทำเงิน/เพชร/เลเวล"
+    ],
+    "price": 79,
+    "vipPrice": 63,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/xSuV4zlR-EwvvF4BwZmgC17koSKq3-i5dBabziFi2KbOHJdASdJttSVoiUuIEfToHDwm0e3799ek9XvXKdgP",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-IO -072",
+    "name": "Tanks Arena",
+    "officialTitle": "Tanks Arena io: Craft & Combat",
+    "packageId": "com.noxgames.tank.arena.cartoon.pvp",
+    "category": "IO Games",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร (Gems/Scraps/Skips) + ทำไอเทมอะไหล่คราฟต์",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร (Gems/Scraps/Skips)",
+      "ทำไอเทมอะไหล่คราฟต์"
+    ],
+    "price": 110,
+    "vipPrice": 88,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ZImR1x4FvPFb6-3gsJGMo3vmGaxcpU4wflOksGv1n0ui9yAYIVK8Ns22UQpy2h98GA7UuoFq2QX4qVHKx9Hq_A",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-IO -073",
+    "name": "Zombie Royal IO",
+    "officialTitle": "Zombie Royale io Offline Game",
+    "packageId": "com.playflow.BattleZombieRoyal",
+    "category": "IO Games",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 149,
+    "vipPrice": 119,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/sDyLFHPYUdWpowE-6P_fy6zwvlIVGfYIH9H2a9e3iivYZCrZOZFlE9vqWkOEjrG1gqAjn24Zctc1NghT7jbMSQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-074",
+    "name": "Armored Robots",
+    "officialTitle": "Armored Robots: Mech Wars PvP",
+    "packageId": "merge.armored.robots",
+    "category": "Action & Shooter",
+    "description": "ทำทรัพยากร (Gold/Gems/Item)",
+    "tags": [
+      "ทำทรัพยากร (Gold/Gems/Item)"
+    ],
+    "price": 85,
+    "vipPrice": 68,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/nCjs8kbfuGtrdbsqZZ4Rju0L0WNcvlcEYs2_FyK_iRrUd4conrNMDIDGPye_Z56ygPYwvc5eKSE9vE8uqoSm4Z8",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-075",
+    "name": "Battle of Warships",
+    "officialTitle": "Battle of Warships: Online",
+    "packageId": "com.CubeSoftware.BattleOfWarships",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี (เรือรบ/ทอง/ดอลลาร์)",
+    "tags": [
+      "กดแพ็คฟรี (เรือรบ/ทอง/ดอลลาร์)"
+    ],
+    "price": 120,
+    "vipPrice": 96,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/bSFYBNjlspMwsOA20-I4qHLASiVOb8lZBhbUS-XFVfQzUM8EbJrd25WZ_xUhwQYtP0eUTQfQajU9AZUwIO9S",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-076",
+    "name": "Bionics",
+    "officialTitle": "Bionics",
+    "packageId": "com.finallygames.bionics",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร (Coins/Weapon Chips/Keys)",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร (Coins/Weapon Chips/Keys)"
+    ],
+    "price": 60,
+    "vipPrice": 50,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/KnqfaeA4_pPHOdV9MH-uK2tPgw13sbggnJbgf-tkVFWoQynuYV-_BUw4VrWpfFzvKr-5s_96DVIfUSPtwWp4ZQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-077",
+    "name": "Box Head",
+    "officialTitle": "Box Head: Roguelike Premium",
+    "packageId": "com.pantheraplay.boxheadpremium",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเงิน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเงิน"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/EjC2papobMpHz7XoO6FetRTCWcsMcmVisUjfd7EsnRtpTR6l_PHVS72oRD03xhyJP9nxoy7sDO7ua92IqXFvBFM",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-078",
+    "name": "Dead Force",
+    "officialTitle": "Dead Shooting: 3D Zombie Games",
+    "packageId": "com.dead.force.zombie",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทองและทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทองและทรัพยากร"
+    ],
+    "price": 135,
+    "vipPrice": 108,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/AOhC9GHhBiAbvEecBvCQ0abDlkOmb8LrhpAeiA70NjsrP3HQ4oVAhHBykIkhMxBgkOBlV4rdz-CyfUnRg1o3",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-079",
+    "name": "Frag Pro Shooter",
+    "officialTitle": "FRAG Pro Shooter",
+    "packageId": "com.ohbibi.fps",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำหีบไอเทม + อัป XP Max",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำหีบไอเทม",
+      "อัป XP Max"
+    ],
+    "price": 75,
+    "vipPrice": 60,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/18DPC2VKF_9bYqnvcf2Jbas4W4pah5-mJ0rJ4lpx-7ACShqJLWRi3u-aIo-xduaYzesL5EmJK7i0yYa4fi_k",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-080",
+    "name": "Gridpunk Battle Royale",
+    "officialTitle": "Gridpunk Battle Royale 3v3 PvP",
+    "packageId": "com.NeverGames.Gridpunk",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเงินและไอเทมคราฟต์",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเงินและไอเทมคราฟต์"
+    ],
+    "price": 100,
+    "vipPrice": 80,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/oQ3SeGH4iHO4UWQz3XY3WbcaeYW2Y7VjRx8XFWvn3wrc3bYJ-eBRtd0GmL-7tZXZGASWZeD6SrwoZSDuWvVUZg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-081",
+    "name": "Gun Force Side",
+    "officialTitle": "Gun Force Side-scrolling Game",
+    "packageId": "com.os.fc.gunforce.sidescrolling.shooter",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร"
+    ],
+    "price": 145,
+    "vipPrice": 116,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/MBwORj5_Q9rT-Q907E2Cqpg58fsp7HMptE_Ou5XGhQKxCf4S5FNsEhCh3umYhEGzdhsPF9NEsBIQZo-tUf4e",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-082",
+    "name": "Guns at Dawn",
+    "officialTitle": "Guns at Dawn: Shooter Online",
+    "packageId": "com.generagames.gunsatdawn.shooter",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทอง",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทอง"
+    ],
+    "price": 80,
+    "vipPrice": 64,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ReEn7d-1IQg_wCl0SgUaFOsM47G-lr9Fc8s1DUg9oxwX4wo_kHy9qOnCIGNhgSpdCQ3ZoNppy0HIH5gJb5GdjpI",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-083",
+    "name": "Major Mayhem 2",
+    "officialTitle": "Major Mayhem 2 - Shooting Game",
+    "packageId": "com.rocketjump.majormayhem2",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 115,
+    "vipPrice": 92,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/tITmc3i8Ein6aCXlvlpslZ5af-9v59dV4O3Bcw_SvOtZ6rn9OqB-ayTkQxutppv11IiFGPY9gLot_ePjKXyz",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-084",
+    "name": "Mech Wars",
+    "officialTitle": "Mech Wars Online Robot Battles",
+    "packageId": "com.momend.mechwars",
+    "category": "Action & Shooter",
+    "description": "ปลดล็อก Premium Battlepass",
+    "tags": [
+      "ปลดล็อก Premium Battlepass"
+    ],
+    "price": 150,
+    "vipPrice": 120,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/r32yrAKsBbPY3fDTrbrvYto10FHFmpiL2zLtxZayl89cvthMBB_j3k5v4a8n39fmaFFR1TnzFJowncN_Hsl2",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-085",
+    "name": "Star Blaster",
+    "officialTitle": "Star Blaster Offline Roguelike",
+    "packageId": "com.starblaster.atwo.epl.gp",
+    "category": "Action & Shooter",
+    "description": "ทำทรัพยากร (เพชร/ทอง/พลังงาน/ชิ้นส่วนอัปเกรด)",
+    "tags": [
+      "ทำทรัพยากร (เพชร/ทอง/พลังงาน/ชิ้นส่วนอัปเกรด)"
+    ],
+    "price": 89,
+    "vipPrice": 71,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/FiHZUSNd1bx7q64E40S3M6HmJdRIwlKQYI9G1Niq0iyQl_D2fv4yeKhS2HquuI1IAk1SOPSixXcyUr5lWFFLCQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-086",
+    "name": "Vortex 9",
+    "officialTitle": "Vortex 9 online shooting games",
+    "packageId": "com.pixelfun.online",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี (ข้ามแบทเทิลพาส) + ทำไข่สุ่ม",
+    "tags": [
+      "กดแพ็คฟรี (ข้ามแบทเทิลพาส)",
+      "ทำไข่สุ่ม"
+    ],
+    "price": 129,
+    "vipPrice": 103,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/R0cTeIBCneU3gp6PnFm1BIrtQiTEu-A7spJIfZrV0AO1iA6gRdDfPckB2bHCN_7N5KT1wGy26WDxuYnd8s_e5g",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-087",
+    "name": "Warplanes Online Combat",
+    "officialTitle": "Warplanes: Online Combat",
+    "packageId": "com.HomeNetGames.WarplanesOnline",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี (เครื่องบิน/ทอง)",
+    "tags": [
+      "กดแพ็คฟรี (เครื่องบิน/ทอง)"
+    ],
+    "price": 69,
+    "vipPrice": 55,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/FpsiLXZEwQVy_oh4032Dz7iYtCLNWkmcpNqchYRuCyXlUE3a2aRJLK4tnNjJaHDRgreeYGwvdXnruLlB9Y3XmQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-088",
+    "name": "Zombie Apocalypse : Doomsday-Z",
+    "officialTitle": "Zombie Apocalypse: Doomsday-Z",
+    "packageId": "com.RastleksGames.TheShootout",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 99,
+    "vipPrice": 79,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Ut9kmdSXm8FFjd7gJ5us21GEIBME0fyhJtP1bLnN7dpAsD95RJmuxf0I-C5t5OXkP-aUepHCWftjyfweGr_J",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-089",
+    "name": "Zombie Hunter",
+    "officialTitle": "Zombie Hunter 2",
+    "packageId": "com.onemb.zombie.hunter",
+    "category": "Action & Shooter",
+    "description": "ทำเงินและทรัพยากร",
+    "tags": [
+      "ทำเงินและทรัพยากร"
+    ],
+    "price": 139,
+    "vipPrice": 111,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ulZf5fPZh2d2hWK7W-cKzrTUY3DjAYuVDiF2wcytpZeClUVmQh5uTOeD5MBD3DcbvZpehXVptzvX4RHUREXipQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-ACT-090",
+    "name": "Zombie Warfare : The Death Path",
+    "officialTitle": "Zombie Warfare: The Death Path",
+    "packageId": "com.higame.zombie.survival.dead",
+    "category": "Action & Shooter",
+    "description": "กดแพ็คฟรี + ทำทรัพยากร (เงิน/เพชร)",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากร (เงิน/เพชร)"
+    ],
+    "price": 79,
+    "vipPrice": 63,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/G_QFBOW1_hAJaGnjz0dGzfT8u3PXXZcBFdQoXqYT7WgNtdWcWUZK0lYn-VGJbXHDPNhkxINnXl0-_vUnJt8Lsh0",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-091",
+    "name": "Ant Colony",
+    "officialTitle": "Ant Colony: Wild Forest Game",
+    "packageId": "com.PIXELCELLS.AntColony2",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรการ์ดมด (ระดับ Mythic)",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรการ์ดมด (ระดับ Mythic)"
+    ],
+    "price": 110,
+    "vipPrice": 88,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/OkoqewySZBRYdyIWGyz8-KNuQ7lG2_6FmDDNdLExC6OYp9AwvO5h38haA1C4hxD8fEMHZ9cWtHqooaaKFis-l8s",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-092",
+    "name": "Backpack Legends",
+    "officialTitle": "Backpack Legends Adventure RPG",
+    "packageId": "com.ondi.pack.adventure",
+    "category": "Strategy",
+    "description": "ทำทรัพยากรและไอเทมทั้งหมด + ปลดล็อกช่องกระเป๋า",
+    "tags": [
+      "ทำทรัพยากรและไอเทมทั้งหมด",
+      "ปลดล็อกช่องกระเป๋า"
+    ],
+    "price": 149,
+    "vipPrice": 119,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/tyf6HW_bDj2TEcA-ve-O-1XnqZyErxNOgHMrUq4H6SkrTV_qgKOpI4wf6szykzEJbqTCj9fNNV7icd3dgQ34478",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-093",
+    "name": "Dominations",
+    "officialTitle": "DomiNations",
+    "packageId": "com.nexonm.dominations.adk",
+    "category": "Strategy",
+    "description": "ทำทรัพยากร (Gold/Food/Oil) + ทำมงกุฎ (บั๊กซากปรักหักพัง)",
+    "tags": [
+      "ทำทรัพยากร (Gold/Food/Oil)",
+      "ทำมงกุฎ (บั๊กซากปรักหักพัง)"
+    ],
+    "price": 85,
+    "vipPrice": 68,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/enKIpVTy_Ipj_B_9GyHm1IQBvauNsheKfN3NLxYlmlGD7OdtcC_9W_qypq5obrGR5gxmuYSYT8wykCyZf-7AOg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-094",
+    "name": "Draw Arena",
+    "officialTitle": "Draw Arena: Battle Tactics",
+    "packageId": "com.kadka.battle.draw",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรการ์ดฮีโร่และตั๋วสุ่ม",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรการ์ดฮีโร่และตั๋วสุ่ม"
+    ],
+    "price": 120,
+    "vipPrice": 96,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/Ht76q6DmBuqiSJDbdW_hYh6TFlA3xU_HgYlRN9WW_sKFxI2R4tjD9gfD3ff3sGQYW-02sIw1j64vwgHfdPD-bQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-095",
+    "name": "Epic Trio",
+    "officialTitle": "Epic Trio: Roguelike Clash",
+    "packageId": "com.inwave.herobase",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเหรียญและวิญญาณ + ปลดล็อกอุปกรณ์",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเหรียญและวิญญาณ",
+      "ปลดล็อกอุปกรณ์"
+    ],
+    "price": 60,
+    "vipPrice": 50,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/ubQagm7jDKSZLu4LCoqNwRpN501IWWW0dIbsfWY5nuaSpecOmnZQNDFOcqEwhPEEw4NyIZmrU9Qd6PfpvLv40Q",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-096",
+    "name": "Game of Warriors",
+    "officialTitle": "Game of Warriors",
+    "packageId": "com.strategygame.gameofwarriors",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/jz88i4RVbsRKlOTn7yAGeXgvxpTMozbjoXAwQbJ-wiQ69aRgByc4PYIc_qQlXrELyei_9SBeI6t-6HHtbAQ2",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-097",
+    "name": "Hex Warrior",
+    "officialTitle": "Hex Warriors",
+    "packageId": "com.dong.hexwarriors",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเหรียญและเพชร",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเหรียญและเพชร"
+    ],
+    "price": 135,
+    "vipPrice": 108,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/QVZoO91VS_1WSJHADN68Dg8sY3BZowIADJwfkrAJ3aRNE8YS9msu3IukrJTvSTDjkhnztSXVQgL3L806iRI1MnI",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-098",
+    "name": "Loadout Warrior",
+    "officialTitle": "Loadout Warrior: Backpack Hero",
+    "packageId": "com.mobgame.loadout.warrior",
+    "category": "Strategy",
+    "description": "ทำทรัพยากรเหรียญ/เพชร/ไอเทม",
+    "tags": [
+      "ทำทรัพยากรเหรียญ/เพชร/ไอเทม"
+    ],
+    "price": 75,
+    "vipPrice": 60,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/cb4hWt4L5QTXdXcuMhKF2iOFoN7tsK1YfhoABrTV72l_mIGj2uIlxUHN3232KyU_vLrgPpBjAucGfrnBQXFm",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-099",
+    "name": "Pocket Rivals",
+    "officialTitle": "Pocket Rivals: Hero Force",
+    "packageId": "com.PocketRivals.HeroForce.merge2.battle",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 100,
+    "vipPrice": 80,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/9rw9jSDCF3R_sH29bpC2oJNCghCcEgebk5laM_oh8uTcgGsupdx4V0mui_y1Y2iJ_GNJQpWIaIR3SFFdKB8VJQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-100",
+    "name": "Rumble Paws",
+    "officialTitle": "Rumble Paws: Backpack Fight",
+    "packageId": "com.bag.fight.backpack.critter.battle.rumble.paws",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเงิน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเงิน"
+    ],
+    "price": 145,
+    "vipPrice": 116,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/GmkpVoyFwmxCguX0o7wRYShJC5l015mMr8LCXdXyKK1TCTGlOOgbBra81l3lBYORA3lkWam4oi9e2_LI6tfpYqI",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-STR-101",
+    "name": "Survivor Base",
+    "officialTitle": "Survivor Base - Zombie Siege",
+    "packageId": "com.jlyt.deadrising",
+    "category": "Strategy",
+    "description": "กดแพ็คฟรี + ทำเพชรทรัพยากร + ปลดล็อกฮีโร่",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำเพชรทรัพยากร",
+      "ปลดล็อกฮีโร่"
+    ],
+    "price": 80,
+    "vipPrice": 64,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/VPYa9BGsNrHrvXLIb9zS8L1CtIW9DFrIwSSxzjIc15aMSH1nxEAZx4zFk0S7KYerrDbcJsEVx8p1zTLGVDynNA",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-102",
+    "name": "Archery Club",
+    "officialTitle": "Archery Club: PvP Multiplayer",
+    "packageId": "com.boombitgames.ArcheryClubTournament",
+    "category": "Other",
+    "description": "ทำเงิน + ปลดล็อกชิ้นส่วนทั้งหมด + อัป Battle Pass",
+    "tags": [
+      "ทำเงิน",
+      "ปลดล็อกชิ้นส่วนทั้งหมด",
+      "อัป Battle Pass"
+    ],
+    "price": 115,
+    "vipPrice": 92,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/uVWf92cl6jzhTIrTzBLzWtMZy42kW_rUPAx6MVSzc6acqz3f_gMjueAJNfgsr9iBacGUYWMT1Pv-44eL5aM3NiI",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-103",
+    "name": "Bounty Go",
+    "officialTitle": "Bounty Go!",
+    "packageId": "onetap.game.monopoly",
+    "category": "Other",
+    "description": "กดแพ็คฟรี + ปลดล็อกแพ็กเกจ/Battlepass",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ปลดล็อกแพ็กเกจ/Battlepass"
+    ],
+    "price": 150,
+    "vipPrice": 120,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/PwQhWty5ZmuUvrPiWvZ1K9NJSWnRDFvKtMX2e1SGClKrqzHiutGIvsv8uYGhE-XtPVV3k_HjnNKW7IHf74r2OeY",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-104",
+    "name": "CarX Street",
+    "officialTitle": "CarX Street",
+    "packageId": "com.carxtech.sr",
+    "category": "Other",
+    "description": "กดแพ็คฟรี (ปลดล็อกรถ Premium) + ทำเงินและทอง",
+    "tags": [
+      "กดแพ็คฟรี (ปลดล็อกรถ Premium)",
+      "ทำเงินและทอง"
+    ],
+    "price": 89,
+    "vipPrice": 71,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/2rUXB-18jvmXnHydl2e8YCLGa6ZFjijo2mb9XNzD-Nco-2fmvEeGjOIHjzkzKwReFca43C5NOmVDo2jaJI5m1w",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-105",
+    "name": "DDDigger",
+    "officialTitle": "DDDigger",
+    "packageId": "com.tree.godown",
+    "category": "Other",
+    "description": "กดแพ็คฟรี + ทำทรัพยากรเหรียญและพลังงาน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำทรัพยากรเหรียญและพลังงาน"
+    ],
+    "price": 129,
+    "vipPrice": 103,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/TyLmCTfrk8PSFabm3WClZwTDBtX5MVPpntoB5Y7QCfkzGCQbUac7XrNyPCVeXma0_LcTCfa3LrpZ3TRKQldW-w",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-106",
+    "name": "Fishing Travel",
+    "officialTitle": "Fishing Travel",
+    "packageId": "com.arkgame.ft",
+    "category": "Other",
+    "description": "ทำทรัพยากรเพชรและทอง",
+    "tags": [
+      "ทำทรัพยากรเพชรและทอง"
+    ],
+    "price": 69,
+    "vipPrice": 55,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/YM9wOV1SD50z_a0LUzehBK0E3vkklkan9UL_SS9MDwZqcsQfCQkgE6wi_krotEuWpgAB_t3Uv4j7tcNDqIXkoQ",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-107",
+    "name": "Hungry Dragon",
+    "officialTitle": "Hungry Dragon: by Hungry Shark",
+    "packageId": "com.ubisoft.hungrydragon",
+    "category": "Other",
+    "description": "ทำทรัพยากรทองและเพชร + ปลดล็อกมังกรพิเศษ",
+    "tags": [
+      "ทำทรัพยากรทองและเพชร",
+      "ปลดล็อกมังกรพิเศษ"
+    ],
+    "price": 99,
+    "vipPrice": 79,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/bru_OIqaCNmz34YeybW_9x8Q4SaIZt8Zoo6Ezm14GfbZ4p8ArgTuaOVhTGvMsPanI93w1H_JkJsSvxiDVzNhYYs",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-108",
+    "name": "Mob Control",
+    "officialTitle": "Mob Control",
+    "packageId": "com.vincentb.MobControl",
+    "category": "Other",
+    "description": "ทำเหรียญ/ตั๋ว + ปลดล็อก VIP ตลอดชีพและปลดล็อกการ์ดทั้งหมด",
+    "tags": [
+      "ทำเหรียญ/ตั๋ว",
+      "ปลดล็อก VIP ตลอดชีพและปลดล็อกการ์ดทั้งหมด"
+    ],
+    "price": 139,
+    "vipPrice": 111,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/eYc7EHSPfZCXbS-oj4mdPH3sSX6ljrhAJntv-bN9zrRHp8qjuroDo_kknhgb0Tu4UGnl5DdkYCW1paSNlspt",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-109",
+    "name": "Orecraft",
+    "officialTitle": "Orecraft: Orc Mining Camp",
+    "packageId": "com.evrika.miner.camp",
+    "category": "Other",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 79,
+    "vipPrice": 63,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/IFE9fO81_hWm0nlIlD6WGJCkuwFt4PXxu7ZkS9FjMjpUSmY6mYbej2Q2iapzC7XlhypoOhVTKplH_18AETAiIg",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-110",
+    "name": "Quack Bag",
+    "officialTitle": "Quack Bag: Duck Mafia",
+    "packageId": "com.bag.blob",
+    "category": "Other",
+    "description": "กดแพ็คฟรี + ทำเพชรและทรัพยากรอาวุธ",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ทำเพชรและทรัพยากรอาวุธ"
+    ],
+    "price": 110,
+    "vipPrice": 88,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/NekekNjDw0pPPPlSOTk2nVIHI8G6tw6g3BXWTeiC864c9_FUdqXngzR_0lWJVAEEfd7h9V7lcrCKeRz1P-gHzR8",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-111",
+    "name": "R.A.C.E",
+    "officialTitle": "Race Master 3D: Car Racing",
+    "packageId": "com.easygames.race",
+    "category": "Other",
+    "description": "ทำคริสตัลและทรัพยากรเงิน",
+    "tags": [
+      "ทำคริสตัลและทรัพยากรเงิน"
+    ],
+    "price": 149,
+    "vipPrice": 119,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/-dgmy1tX42EGfXRFTfSzCmSNbj3KZIdkE6vNS69cVcVUEFMdq_WWHI7Yb2Z9p4-7nym3VXhHIZhXUOmgNrtUIl8",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-112",
+    "name": "Rush : Xtream",
+    "officialTitle": "RUSH: Xtreme",
+    "packageId": "com.rush.xtreme.sports",
+    "category": "Other",
+    "description": "ทำทรัพยากรเงิน + ปลดล็อกสกินยานพาหนะ",
+    "tags": [
+      "ทำทรัพยากรเงิน",
+      "ปลดล็อกสกินยานพาหนะ"
+    ],
+    "price": 85,
+    "vipPrice": 68,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/9G5Qe9rlbCNdRD-PrK5bn5s9v0ApdtR-d-Tog_sOyWoYT4tecoPhEBjX_23Qeyzluae5_9A1YG8rCpHfLzyXig",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-113",
+    "name": "Smash Badminton",
+    "officialTitle": "SMASH Badminton",
+    "packageId": "com.cascade.badminton.game",
+    "category": "Other",
+    "description": "ทำทรัพยากรเพชร/เหรียญ/ตั๋วข้าม",
+    "tags": [
+      "ทำทรัพยากรเพชร/เหรียญ/ตั๋วข้าม"
+    ],
+    "price": 120,
+    "vipPrice": 96,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/nyrD59wtGWYYeDJwEokBhwIbAarsl4ytMBQmo8NY86ZH4iwv_9Bkt4L6G8NLpkrzIkyeL66M7Kt6FdxCp6NN",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-114",
+    "name": "Super Bear Adventure",
+    "officialTitle": "Super Bear Adventure",
+    "packageId": "com.Earthkwak.Platformer",
+    "category": "Other",
+    "description": "กดแพ็คฟรี + ปลดล็อกสกิน",
+    "tags": [
+      "กดแพ็คฟรี",
+      "ปลดล็อกสกิน"
+    ],
+    "price": 60,
+    "vipPrice": 50,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/e8EqoEJMdQpFVNmDSi5dSmf2EZx_93y66qayc3y5FxbiGOSp38Sww6wtvlI5oZyXD6hamJ9Vtw3pEb_SaWd8LIU",
+    "lastUpdated": "05/07/2026"
+  },
+  {
+    "id": "G-OTH-115",
+    "name": "Swamp Attack 2",
+    "officialTitle": "Swamp Attack 2",
+    "packageId": "com.hyperdotstudios.swampattack2",
+    "category": "Other",
+    "description": "กดแพ็คฟรี",
+    "tags": [
+      "กดแพ็คฟรี"
+    ],
+    "price": 90,
+    "vipPrice": 72,
+    "status": "Working",
+    "imageUrl": "https://play-lh.googleusercontent.com/v5ovSih4U3H1dYWA2ULcmIH6ECNw5tHDLwJb1JI1cJ6ZolNkf5SkIvls7EuHRMBYv4ZMKMbocsQCmOiRI00clQ",
+    "lastUpdated": "05/07/2026"
+  }
+]
